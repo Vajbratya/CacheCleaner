@@ -5,3 +5,5 @@ xcuserdata/
 DerivedData/
 .swiftpm/
 dmg-contents/
+*.dmg
+CacheCleaner.app/Contents/MacOS/CacheCleaner
